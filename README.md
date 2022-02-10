@@ -15,8 +15,6 @@
 
 - 📫 How to reach me **phenrique_h2016@hotmail.com**
 
-- 📄 Know about my experiences [https://pedrohemmel.github.io/](https://pedrohemmel.github.io/)
-
 - ⚡ Fun fact **My first hobby is develop websites.**
 
 <h3 align="left">Connect with me:</h3>
