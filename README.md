@@ -11,7 +11,7 @@
 
 - 📝 I regularly write articles on [https://pedrohemmel.github.io/](https://pedrohemmel.github.io/)
 
-- 💬 Ask me about **Swift, UIKit, Rest APIs, POO, MVVM/C-MVC, HTML, CSS, JavaScript, PHP**
+- 💬 Ask me about **Swift, UIKit, Rest APIs, POO, Design Patterns, HTML, CSS, JavaScript, PHP**
 
 - 📫 How to reach me **phenrique_h2016@hotmail.com**
 
