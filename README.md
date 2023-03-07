@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Pedro Henrique</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently participating in a program at Apple Developer Academy **Apple Developer Academy**
+- 🔭 I’m currently participating in a program at **Apple Developer Academy**
 
 - 🌱 I’m currently learning **Mobile Development**
 
-- 🤝 Swift Development **Swift**
+- 🤝 **Swift** development
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pedro-henrique-dias-hemmel-de-oliveira-souza-90a5261b3/](https://www.linkedin.com/in/pedro-henrique-dias-hemmel-de-oliveira-souza-90a5261b3/)
 
