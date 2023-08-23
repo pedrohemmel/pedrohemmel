@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **phenrique_h2016@hotmail.com**
 
-- ⚡ Fun fact **My first hobby is develop websites.**
+- ⚡ Fun fact **My first hobby is watch animes.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
