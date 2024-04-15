@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Pedro Henrique</h1>
 <h3 align="center">A passionate developer from Brazil</h3>
 
-- 🔭 I’m currently participating in a program at **Apple Developer Academy**
+- 🔭 I’m currently working as iOS Engineer at **Itau Unibanco**
 
-- 🌱 I’m currently learning **Mobile Development**
+- 🌱 I’m currently learning **Computer Science**
 
 - 🤝 **Swift** development
 
@@ -11,11 +11,11 @@
 
 - 📝 I regularly write articles on [https://pedrohemmel.github.io/](https://pedrohemmel.github.io/)
 
-- 💬 Ask me about **Swift, UIKit, SpriteKit, SwiftUI, Rest APIs, POO, Design Patterns, HTML, CSS, JavaScript, PHP**
+- 💬 Ask me about **Swift, UIKit, Algorithms, Backend, Architecture Patterns, Design Patterns, OOP**
 
 - 📫 How to reach me **phenrique_h2016@hotmail.com**
 
-- ⚡ Fun fact **My first hobby is watch animes.**
+- ⚡ Fun fact **My first hobby is watch animes**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
