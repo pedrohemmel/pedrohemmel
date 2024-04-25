@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/pedro-henrique-dias-hemmel-de-oliveira-souza-90a5261b3/](https://www.linkedin.com/in/pedro-henrique-dias-hemmel-de-oliveira-souza-90a5261b3/)
 
-- 📝 I regularly write articles on [https://pedrohemmel.github.io/](https://pedrohemmel.github.io/)
+- 📝 I regularly write articles on [this link]([https://pedrohemmel.github.io/](https://pedrohemmel.github.io/Pedro-Souza/))
 
 - 💬 Ask me about **Swift, UIKit, Algorithms, Backend, Architecture Patterns, Design Patterns, OOP**
 
