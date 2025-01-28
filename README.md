@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro Henrique</h1>
 <h3 align="center">A passionate engineer from Brazil</h3>
 
-- 🔭 I’m currently working as iOS Engineer at **Itau Unibanco**
+- 🔭 I’m currently in iOS Development working as a freelancer
 
 - 🌱 I’m currently learning **Computer Science**
 
